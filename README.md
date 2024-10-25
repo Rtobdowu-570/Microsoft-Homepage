@@ -23,8 +23,7 @@ This project is a clone of the Microsoft homepage, created to demonstrate web de
 
 - HTML5
 - CSS3
-- JavaScript
-- Bootstrap (for responsive design)
+- Little  JavaScript for interactive elements
 - Font Awesome (for icons)
 
 ## Installation
